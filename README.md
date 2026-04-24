@@ -6,7 +6,7 @@ This is a simple music player web page built using only HTML. It uses the HTML `
 
 ## 🚀 Live Demo
 
-👉 https://your-username.github.io/music-player-html/
+👉https://sudha2005.github.io/music-player-html/
 
 ## 🛠️ Built With
 
